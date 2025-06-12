@@ -1,2 +1,34 @@
-# FashIQ
-Designed an AI-powered wardrobe assistant that recommends outfits using NLP and computer vision. Integrated GPT-4 and CLIP to interpret style prompts and match apparel. Enabled real-time fashion suggestions via FastAPI and product scraping for personalized, image-aware clothing recommendations.
+# FashIQ - Personal Wardrobe Stylist README 🚀
+
+
+
+### Streamlit App 🌟
+
+#### 1. How to Use the Streamlit App locally:
+1. Clone the repository to your local machine:
+
+
+  ```bash
+   git clone https://github.com/Vicky1240/FashIQ.git
+   ```
+
+2. Create environment
+```
+conda create --name stenv python==3.9.0
+conda activate stenv
+   ```
+
+3. Install Requirements
+```
+pip install -r requirements.txt
+
+   ```
+  4. Run the app
+
+   ```
+   streamlit run Main.py
+
+   ```
+
+- 📊 Users can give the query and get the recommended images from previously Wardrobe images and recommendation links to buy products from Macy's Online store
+
