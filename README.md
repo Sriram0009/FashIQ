@@ -9,7 +9,7 @@
 
 
   ```bash
-   git clone https://github.com/Vicky1240/FashIQ.git
+   git clone https://github.com/Sriram0009/FashIQ
    ```
 
 2. Create environment
